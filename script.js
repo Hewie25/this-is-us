@@ -10,8 +10,7 @@ let startY = 0;
 let isDragging = false;
 let isAnimating = false;
 
-// ⚠️ REPLACE THIS with your real Formspree endpoint
-const FORMSPREE_ENDPOINT = "https://formspree.io/f/YOUR_FORM_ID";
+const FORMSPREE_ENDPOINT = "https://formspree.io/f/xbgjpwdo";
 
 function update() {
   pages.forEach((page, i) => {
